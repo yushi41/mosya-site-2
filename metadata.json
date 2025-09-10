@@ -1,5 +1,5 @@
 {
-  "name": "Blue Bottle Coffee Store Clone",
-  "description": "A fully functional and visually appealing clone of the Blue Bottle Coffee online store, built with React, TypeScript, and Tailwind CSS.",
+  "name": "Blue Bottle Coffee Store Clone (Static HTML)",
+  "description": "A fully functional and visually appealing clone of the Blue Bottle Coffee online store, built with static HTML and Tailwind CSS.",
   "requestFramePermissions": []
 }
